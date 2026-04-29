@@ -29,7 +29,7 @@ Font Awesome Icons
 
 ## 📁 Folder Structure
 
-spotify-clone  
+spotify-clone-frontend
 │  
 ├── index.html  
 ├── style.css  
